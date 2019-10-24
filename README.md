@@ -7,7 +7,7 @@ Includes a second class BSDLSL to recieve a pyLSL stream with SensorTag data.
 Bluetooth communication is done via Bleak.
 
 Requirements:
-- BLE module in the PC (duh)
 - pylsl
 - bleak
 - matplotlib (for plotting in BSDLSL)
+- BLE module in the PC and a TI SensorTag (duh)
